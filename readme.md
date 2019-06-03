@@ -5,7 +5,3 @@ Third modified.
 <<<<<<< Updated upstream
 Stupid Boss.
 dev bug.
-=======
---Stupid Boss.--
-bug fixed.
->>>>>>> Stashed changes
