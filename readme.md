@@ -3,3 +3,4 @@ Git has a mutable index called stage.
 Second modified.
 Third modified.
 Stupid Boss.
+dev bug.
